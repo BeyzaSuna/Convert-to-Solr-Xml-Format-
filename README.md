@@ -17,7 +17,8 @@ Bu format şu şekilde:
     </doc>
   </add>
 
-Elimde ornek.xml diye bir dosya var.Bu dosyayı Apache-Solr'a atabilmek için Xml'i Parse etmem gerekiyor. Bunun için SAXParser kütüphanesini kullandım.Parse edilen xml'i output.xml dosyasına yazdırdım.
+Elimde ornek.xml diye bir dosya var.Bu dosyayı Apache-Solr'a atabilmek için Xml'i Parse etmem gerekiyor.
+Bunun için SAXParser kütüphanesini kullandım.Parse edilen xml'i output.xml dosyasına yazdırdım.
 
 
 **ornek.xml dosyası**
