@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kitaplık>
+<kitap>
+    <id>1</id>
+    <ad>Lacivert Safir</ad>
+    <yazar> T.Y Mazer</yazar>
+    <sayfa>428 sayfa</sayfa>
+</kitap>
+<kitap>
+    <id>2</id>
+    <ad>Oyunbozan</ad>
+    <yazar>James Dashner</yazar>
+    <sayfa>318 sayfa</sayfa>
+</kitap>
+<kitap>
+    <id>3</id>
+    <ad>Sherlock Holmes Akıl Oyunlarının Gölgesinde</ad>
+    <yazar>Sir Arthur Conan Doyle</yazar>
+    <sayfa>336 sayfa</sayfa>
+</kitap>
+<kitap>
+    <id>4</id>
+    <ad>Senin İçin Enginar Sakladım</ad>
+    <yazar> Salim Nizam, Roman</yazar>
+    <sayfa>471 sayfa</sayfa>
+</kitap>
+<kitap>
+    <id>5</id>
+    <ad>Kayıp Kızlar</ad>
+    <yazar>Megan Miranda</yazar>
+    <sayfa>460 sayfa</sayfa>
+</kitap>
+<kitap>
+    <id>6</id>
+    <ad>Aldanış</ad>
+    <yazar>James Morgan</yazar>
+    <sayfa>380 sayfa</sayfa>
+</kitap>
+</kitaplık>
